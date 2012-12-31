@@ -2,8 +2,8 @@ radiationleak
 =============
 
 
-Radiation Leak is a game I wrote for the Amstrad CPC series of
-8bit micros back in the 80s.
+Radiation Leak is a game I wrote for the Amstrad CPC 
+back in the 80s.
 
 Radiation Leak is basically a clone/inspired by games such as 
 Boulderdash in which the goal is to navigate a cave full of 
